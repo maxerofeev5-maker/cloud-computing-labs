@@ -5,31 +5,54 @@
 **Student:** Maksym Yerofeev  
 **University:** Kharkiv Aviation Institute
 
-## Task 1 — AWS Free Tier
+## Task 1 — Sign up for AWS Free Tier account
 
 AWS Free Tier account was successfully created.
 
-![AWS account](./aws.png)
+![AWS Free Tier](./AWSFREETIER.png)
 
-## Task 2 — AWS Educate
+### Set MFA for AWS account root user
 
-AWS Educate account was successfully registered.
+MFA was successfully configured for the AWS root user.
 
-![AWS Educate](./aws-educate.png)
+![MFA for AWS root user](./MFAROOTUSER.png)
 
-## Task 3 — Microsoft Azure
+### Create an IAM admin user
 
-Microsoft Azure Free Student account was successfully registered.
+An IAM administrator user was successfully created for the AWS account.
 
-![Microsoft Azure](./azure.png)
+![IAM administrator](./IAMADMIN.png)
 
-## Task 4 — GitHub
+### IAM sign-in
 
-GitHub account and repository were successfully created.
+The IAM administrator sign-in was successfully configured.
 
-![GitHub repository](./github.png)
+![IAM sign-in](./SIGINAIAM.png)
+
+### AWS credentials
+
+AWS IAM user credentials were successfully generated.
+
+![AWS credentials](./CREDENTIALS.png)
+
+## Task 2 — Register with Amazon Educate
+
+AWS Educate account was successfully registered using the university email address.
+
+![AWS Educate](./AWSEDUCATE.png)
+
+## Task 3 — Register for Microsoft Azure Free Student Account
+
+Microsoft Azure Free Student account could not be registered due to an error during the registration process.
+
+![Microsoft Azure registration error](./AZURE.jpg)
+
+## Task 4 — Create GitHub Account
+
+A GitHub account and repository were successfully created for future laboratory works.
+
+![GitHub repository](./GITGUB.png)
 
 ## Conclusion
 
-During this laboratory work, accounts were created for AWS,
-AWS Educate, Microsoft Azure and GitHub.
+During this laboratory work, an AWS Free Tier account was successfully created and configured with MFA and an IAM administrator user. An AWS Educate account and a GitHub account were also successfully created. An attempt was made to register for a Microsoft Azure Free Student account, but the registration could not be completed due to an error during the registration process.
