@@ -7,7 +7,17 @@
 **Name:** Maksym Yerofeev  
 **University:** Kharkiv Aviation Institute
 
-### Objective
+### GitHub Profile
+
+[GitHub Profile](https://github.com/maxerofeev5-maker)
+
+### Laboratory Repository
+
+[Cloud Computing Labs Repository](https://github.com/maxerofeev5-maker/cloud-computing-labs)
+
+---
+
+## Objective
 
 The objective of this laboratory work is to prepare accounts and access to cloud service providers and a source control platform for future practical laboratory works.
 
@@ -82,3 +92,5 @@ A repository named **cloud-computing-labs** was created to store laboratory repo
 During this laboratory work, an AWS Free Tier account was successfully created and configured. MFA was enabled for the AWS root user, and an IAM administrator account was created for everyday use. An AWS Educate account and a GitHub account were also successfully registered.
 
 An attempt was made to register for a Microsoft Azure Free Student account, but the registration could not be completed due to an error during the registration process. The corresponding error is included in the report as evidence.
+
+The GitHub repository will be used to store the reports for the subsequent laboratory works according to the required structure: `lab1/report.md`, `lab2/report.md`, and so on.
